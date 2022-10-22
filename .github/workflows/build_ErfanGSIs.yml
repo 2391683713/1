@@ -17,7 +17,7 @@ env:
   ROM_URL: https://dl3.smartisan.com/ota/mol.darwin-ard11-rom-8.5.0-SEKSA.darwin-user/202207181841/8.5.3-202207181710-user-drw-afb56dfbfc.zip
 
   ROM_NAME: SmartisanOS8.5.3
-  BUILD_TYPE: a-only
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
